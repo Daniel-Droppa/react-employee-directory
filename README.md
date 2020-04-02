@@ -3,4 +3,4 @@ A simple app that allows a user to search through a database of employees based 
 [link to heroku deployed site](https://apple-crumble-46227.herokuapp.com/)
 
 
-![screenshot of app](react-employee-directory\public\images\react-employee-directory-screenshot.png)
+![screenshot of app](./public/images/react-employee-directory-screenshot.png)
