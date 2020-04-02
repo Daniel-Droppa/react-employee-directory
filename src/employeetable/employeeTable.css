@@ -1,0 +1,28 @@
+td img {
+    width: 250px;
+}
+
+.table {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+td {
+    border: 1px solid black;
+}
+
+input {
+    margin: 0 auto;
+    width: 20vw;
+    height: 2vw;
+    margin: 10px 0;  
+    text-align: center;
+}
+
+.search-bar {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    margin: 10px auto;
+}
